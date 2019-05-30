@@ -1,0 +1,31 @@
+{
+  "name": "anylogger-tutorial",
+  "version": "0.3.0",
+  "description": "Simple tutorial project demonstrating anylogger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Download/anylogger-tutorial.git"
+  },
+  "keywords": [
+    "anylogger",
+    "anylogger-debug",
+    "anylogger-tutorial",
+    "tutorial"
+  ],
+  "author": "Stijn de Witt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Download/anylogger-tutorial/issues"
+  },
+  "homepage": "https://github.com/Download/anylogger-tutorial#readme",
+  "dependencies": {
+    "anylogger": "^0.11.0",
+    "anylogger-debug": "^0.4.0",
+    "debug": "^4.1.1"
+  }
+}
