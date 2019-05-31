@@ -1,6 +1,6 @@
 {
   "name": "anylogger-tutorial",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Simple tutorial project demonstrating anylogger",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/Download/anylogger-tutorial#readme",
   "dependencies": {
-    "anylogger": "^0.11.0",
-    "anylogger-debug": "^0.4.0",
+    "anylogger": "^0.14.0",
+    "anylogger-debug": "^0.5.0",
     "debug": "^4.1.1"
   }
 }
