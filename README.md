@@ -75,7 +75,7 @@ That's it! For now. This tutorial project uses [anylogger-debug](https://npmjs.c
 
 So why don't we see anything?
 
-[debug][https://npmjs.com/package/debug] is opt-in; in order for logging to show up, you need to enable it first:
+[debug](https://npmjs.com/package/debug) is opt-in; in order for logging to show up, you need to enable it first:
 
 ```sh
 set DEBUG=*
